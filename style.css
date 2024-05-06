@@ -67,4 +67,12 @@ body {
     text-decoration: none;
     padding: 21.5px 0px;
     font-family: "Montserrat", sans-serif;
+
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.link:hover {
+    background-color: #272727;
 }
