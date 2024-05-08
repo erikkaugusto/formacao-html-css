@@ -130,5 +130,10 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse; /* Inverte a ordem, a foto vai para cima e o texto para baixo */
+        padding: 5%;
+    }
+
+    .conteudo {
+        width: auto;
     }
 }
